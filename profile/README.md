@@ -53,9 +53,9 @@ No account to start. 14-day no-questions refund. Stop paying and your notes stay
 
 | Repo | What it is |
 |---|---|
-| [**hushjot**](https://github.com/hushjot/hushjot) | The web app: Svelte 5, CodeMirror 6, and the encryption and sync core |
+| [**hushjot**](https://github.com/hushjot/hushjot-app) | The web app: Svelte 5, CodeMirror 6, and the encryption and sync core |
 | [**hushjot-cli**](https://github.com/hushjot/hushjot-cli) | `hushjot` on the command line, and the MCP server for AI agents |
 
-AGPL-3.0. Every release lists the SHA-256 of its build so you can check that what you run is what we published. Found a vulnerability? Please report it privately: see [SECURITY.md](https://github.com/hushjot/hushjot/blob/main/SECURITY.md).
+AGPL-3.0. Every release lists the SHA-256 of its build so you can check that what you run is what we published. Found a vulnerability? Please report it privately: see [SECURITY.md](https://github.com/hushjot/hushjot-app/blob/main/SECURITY.md).
 
 <p align="center"><a href="https://hushjot.app"><b>Start writing →</b></a></p>
